@@ -117,6 +117,7 @@ while running:
 
     # check for game over
     if player_lives == 0:
+        display_surface.blit(lives_text, lives_rect)
         display_surface.blit(game_over_text, game_over_rect)
         display_surface.blit(continue_text, continue_rect)
         pygame.display.update()
