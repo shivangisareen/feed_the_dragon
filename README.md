@@ -7,4 +7,4 @@ conda activate feed_the_dragon
 ```
 Once the virtual evironment is activated- `pip install pygame`
 
-Run the game and give it a try!
+Feed the dragon as many coins as you can! Move the dragon UP or DOWN to get those coins. Watch out - coins get faster and faster the more the dragon eats!
